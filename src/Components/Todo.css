@@ -1,0 +1,19 @@
+.todo_list {
+  text-align: center;
+
+  width: 100%;
+}
+
+.crossed-line {
+  text-decoration: line-through;
+}
+.modal_body {
+  background-color: aqua;
+}
+.classes.paper Button {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+.heading {
+  color: #4051b5;
+}

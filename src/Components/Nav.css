@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+
+  padding: 10px;
+  background-color: #4051b5;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.header_logo {
+  display: flex;
+  color: white;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.header p {
+  color: white;
+  font-size: smaller;
+  padding-top: 13px;
+  padding-left: 8px;
+}
+.header Button {
+  margin-left: 100px !important;
+  float: right !important;
+  background-color: #c2cbff;
+}
+.header Button:hover {
+  background-color: linen;
+}
+.login_link {
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 30px;
+  width: 80px;
+  background-color: #c2cbff;
+  margin: auto;
+  color: black;
+  text-decoration: none;
+}
+.login_link:hover {
+  transition: 450ms;
+  background-color: linen;
+}

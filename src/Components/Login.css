@@ -1,0 +1,23 @@
+.login {
+  max-width: 350px;
+  height: 140px;
+  margin: auto;
+  background-color: #5367dd;
+  border-radius: 20px;
+  line-height: 50px;
+  justify-content: center;
+  place-items: center;
+}
+.login img {
+  width: 30px;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.login Button {
+  background-color: #c2cbff;
+  color: black;
+}
+.login Button:hover {
+  background-color: linen;
+}
